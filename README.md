@@ -101,7 +101,7 @@ Olist-Ecommerce-Analytics/
 
 ### 1. استنساخ المستودع (Clone the Repository)
 ```bash
-git clone https://github.com/amirayman20/Olist-Ecommerce-Analytics
+git clone [https://github.com/amirayman20/Olist-Ecommerce-Analytics](https://github.com/amirayman20/Olist-E-Commerce-Analytics-End-to-End-Python-Project)
 
 ```
 
