@@ -1,9 +1,9 @@
 # 📦 Olist Brazilian E‑Commerce — End-to-End Analytics & Enterprise Insights
 
-[![Python](https://shields.io)](https://python.org)
-[![Pandas](https://shields.io)](https://pydata.org)
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Contributions-Welcome](https://shields.io)](CONTRIBUTING.md)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Contributions-Welcome](https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge)](CONTRIBUTING.md)
 
 تحليل شامل لمنصة Olist البرازيلية باستخدام Python. يتضمن المشروع بناء نموذج بيانات موحد (Data Model)، وهندسة الميزات (Feature Engineering)، واستخراج رؤى تشغيلية وتجارية لرفع كفاءة سلاسل الإمداد والمبيعات.
 
@@ -101,8 +101,8 @@ Olist-Ecommerce-Analytics/
 
 ### 1. استنساخ المستودع (Clone the Repository)
 ```bash
-git clone github.com
-cd Olist-Ecommerce-Analytics
+git clone https://github.com/amirayman20/Olist-Ecommerce-Analytics
+
 ```
 
 ### 2. تحميل البيانات
